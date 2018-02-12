@@ -89,7 +89,7 @@ header h2 {
   margin: 120px 0 90px;
   font-weight: 600;
 }
-#button-yellow {
+#button-yellow, .yellow-button {
   border-radius: 5px;
   font-weight: 800;
   padding: 12px 0;
